@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 .container-width {max-width: 75rem;}
+x-cloak {display: none !important;}
 
 
 .ubuntu {
